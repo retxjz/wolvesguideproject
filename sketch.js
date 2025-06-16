@@ -62,7 +62,7 @@ let answers = [
 function preload() {
   pixeled = loadFont('assets/Font/Anton-Regular.ttf');
   backgroundSound = loadSound('assets/sound/bob.mp3');
-  yapSound = loadSound('assets/sound/yap.mp3');
+  yapSound = loadSound('assets/sound/yippee-147032.mp3');
   grid = loadImage('assets/img/grid.png', function (img) {
     img.resize(grid_pr_x, grid_pr_y);
   });
